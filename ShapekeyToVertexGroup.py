@@ -1,5 +1,6 @@
 # Usage: Select a shape key and run the script, it will move the vertices affected by the shapekey into a vertex group
 # You can then go into edit mode and select the verticies in the vertex group to view them
+# Note: If the shapekey doesn't affect any verticies then it will not create any new vertex group.
 
 import bpy
 
